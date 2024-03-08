@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MenuInterface.iml" filepath="$PROJECT_DIR$/.idea/MenuInterface.iml" />
-      <module fileurl="file://$PROJECT_DIR$/menu/menu.iml" filepath="$PROJECT_DIR$/menu/menu.iml" />
     </modules>
   </component>
 </project>
